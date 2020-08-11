@@ -2,7 +2,8 @@
   "name": "lerna-test",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "lerna": "^3.22.1",
+    "lerna-changelog": "^1.0.1"
   },
   "scripts": {
     "pub": "lerna publish"
