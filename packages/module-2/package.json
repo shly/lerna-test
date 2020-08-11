@@ -1,6 +1,6 @@
 {
   "name": "module-2-shly",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "gitHead": "b9e69ec01c49f46bc3d6b3c97d067184fddb24f1",
   "dependencies": {
-    "module-1-shly": "^1.0.6"
+    "module-1-shly": "^1.0.7"
   }
 }
