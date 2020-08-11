@@ -1,10 +1,10 @@
 {
-  "name": "root",
+  "name": "lerna-test",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "pub": "lerna publish --no-push"
+    "pub": "lerna publish"
   }
 }
