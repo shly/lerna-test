@@ -1,5 +1,5 @@
 {
-  "name": "module-2",
+  "name": "module-2-shly",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "b9e69ec01c49f46bc3d6b3c97d067184fddb24f1"
 }
